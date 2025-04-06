@@ -1,0 +1,2 @@
+# tcompu
+tarea2
